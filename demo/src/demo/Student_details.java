@@ -1,6 +1,5 @@
 package demo;
-//hgdreghjkgk
-//wefrgrt
+//h
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
