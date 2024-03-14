@@ -1,5 +1,5 @@
 package demo;
-//h
+
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
